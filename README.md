@@ -10,8 +10,7 @@ La taille est de 3Go
 1.3.3 Configuration réseau
 
 ![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/961203e7-07b3-4882-be1a-7cf638e07b21)
-
-@ip que nous avons est : 192.168.88.60
+sudo
 
 Éditer le fichier /etc/network/interfaces de la manière suivante : 
 
@@ -113,6 +112,26 @@ voici le resuktat sur VM :
 
 
 — création d’un entrée dans /proc
+
+![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/2a43e635-c4a5-4472-abf6-0270a4a52bb9)
+
+
+
+![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/e6d51b6c-2f4a-45d4-b679-daa699ab45a6)
+
+voici le messages dans proc
+
+![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/b9ebfbd9-3c19-4b99-91f2-0f90e638a15c)
+
+comme nous avons pas envoyé des messages on a rien de particulier.
+
+on va essayer d'envoyer un message : 
+
+![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/540e07cb-c0dc-470d-ba86-5f5a4e627384)
+le message est recu 
+![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/6b84baef-4f44-4ba6-87dd-5c1486c606a9)
+
+
 
 
 
