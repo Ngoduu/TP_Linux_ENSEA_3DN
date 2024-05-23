@@ -89,6 +89,23 @@ Avant de travailler avec les modules, on va créer un programme qui accède dire
 on va essayer d'allumer LED 8
 ![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/eb6c8bd7-1508-4142-aa76-5bd8137a1e6a)
 on a bien acces aux registre LED
+2.2 Compilation de module noyau sur la VM
+On va recupere les fichers hello.c et makefile sur moodle 
+
+![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/736a04e5-c4d8-49fb-a9be-fab7e4c265ba)
+
+On va utiliser la commande make pour compiler, il va generer un ficher .ko
+
+ensuite la commande sudo insmod hellokernel.ko pour l'executer : 
+
+![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/f4c4e91e-9c94-4834-953d-abd999cb2707)
+
+
+
+
+
+
+
 
 
 
