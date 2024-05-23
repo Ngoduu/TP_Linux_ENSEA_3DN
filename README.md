@@ -128,8 +128,12 @@ comme nous avons pas envoyé des messages on a rien de particulier.
 on va essayer d'envoyer un message : 
 
 ![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/540e07cb-c0dc-470d-ba86-5f5a4e627384)
+
 le message est recu 
+
 ![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/6b84baef-4f44-4ba6-87dd-5c1486c606a9)
+
+
 
 
 
