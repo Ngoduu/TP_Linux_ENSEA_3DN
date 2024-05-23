@@ -80,6 +80,22 @@ ensuite on va faire les memes etapes pour compiler et executer sur la carte :
 
 ![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/5149076b-8646-4336-b4fa-d8492eeadedb)
 
+2 Modules kernel (TP2)
+2.1 Accès aux registres
+
+Avant de travailler avec les modules, on va créer un programme qui accède directement aux registres depuis l’espace utilisateur.
+![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/0b2e029c-dbeb-4d79-be45-ae24f013e950)
+
+on va essayer d'allumer LED 8
+![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/eb6c8bd7-1508-4142-aa76-5bd8137a1e6a)
+on a bien acces aux registre LED
+
+
+
+
+
+
+
 
 
 
