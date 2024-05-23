@@ -100,6 +100,21 @@ ensuite la commande sudo insmod hellokernel.ko pour l'executer :
 
 ![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/f4c4e91e-9c94-4834-953d-abd999cb2707)
 
+pour decharger le module on va utiliser la commande rmmod hellokernel.ko
+
+Pour la suite, on va tester les programmes suivants 
+— utilisation de paramètres au chargement du module
+
+![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/ca3e3380-7797-469c-b1ad-ba94a5c226ef)
+
+voici le resuktat sur VM : 
+
+![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/51701883-a5b3-4020-8509-081f4fcc8e49)
+
+
+— création d’un entrée dans /proc
+
+
 
 
 
