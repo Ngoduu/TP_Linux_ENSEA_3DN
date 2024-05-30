@@ -133,6 +133,28 @@ le message est recu
 
 ![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/6b84baef-4f44-4ba6-87dd-5c1486c606a9)
 
+utilisation d’un timer
+
+![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/aa35df02-bd86-48e8-87e6-9fae2acb3a11)
+
+On ma creer un ficher .ko du timer
+
+![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/90fd560f-3002-4bff-87f3-38e82b5a7772)
+
+On ne puet pas faire la compilation sur le terminal du pc car les fromats ne sont pas comptatible donc on va le tester directeent sur le VM
+
+![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/68a69c3b-a819-4141-a0a7-447abf05e436)
+
+le module timer marhe bien et avons lancé un timer pendant 2s
+
+On enleve le module timer
+
+![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/12405c71-54ee-44d4-9fd5-0aa7f9b6fcc5)
+
+2.3 CrossCompilation de modules noyau
+2.3.0 Récupération du Noyau Terasic (c’est déjà fait dans la VM !)
+
+
 
 
 
