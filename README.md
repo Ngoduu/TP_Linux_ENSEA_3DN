@@ -171,6 +171,24 @@ Test sur la carte
 
 nous avons bien reussi la cross compilation
 
+3 Device tree (TP3)
+
+Avant de commencer on va aller chercher le ficher dts 
+
+![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/23cd654b-b75f-424f-ba69-e8867901fd9c)
+
+
+on va remplacer la ligne ledr par ça :
+
+![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/d366d260-0252-4e3b-ab03-576d4bbae5f3)
+
+On va installer le compilateur de device-tree sur la VM :
+
+cd src
+
+
+
+
 
 
 
