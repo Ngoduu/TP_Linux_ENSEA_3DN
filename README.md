@@ -182,9 +182,16 @@ on va remplacer la ligne ledr par ça :
 
 ![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/d366d260-0252-4e3b-ab03-576d4bbae5f3)
 
-On va installer le compilateur de device-tree sur la VM :
+On va installer le compilateur de device-tree sur la VM et explorez le nouveau device-tree : 
 
-cd src
+![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/cd69a6ec-f0e9-424e-ac1e-a8b6e84182c1)
+
+en se rend compte que les ficher leds n'est sont plus present car on avait suprimé.
+
+3.1 module accedant au LED via /dev
+
+
+
 
 
 
