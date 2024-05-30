@@ -27,8 +27,8 @@ __used
 __attribute__((section("__versions"))) = {
 	{ 0xd1b09e08, "module_layout" },
 	{ 0x2b68bd2f, "del_timer" },
-	{ 0xc38c83b8, "mod_timer" },
 	{ 0xc6f46339, "init_timer_key" },
+	{ 0xc38c83b8, "mod_timer" },
 	{ 0x7c32d0f0, "printk" },
 	{ 0x15ba50a6, "jiffies" },
 	{ 0xbdfb6dbb, "__fentry__" },

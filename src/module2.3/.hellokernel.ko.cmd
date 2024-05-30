@@ -1,0 +1,1 @@
+cmd_/home/ensea/src/module2.3/hellokernel.ko := /usr/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/ensea/src/module2.3/hellokernel.ko /home/ensea/src/module2.3/hellokernel.o /home/ensea/src/module2.3/hellokernel.mod.o

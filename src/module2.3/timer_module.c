@@ -17,7 +17,7 @@ static int __init my_init(void)
 
 	pr_info("%s: Timer module loaded\n", __func__);
 
-	timer_setup(&my_timer, my_timer_callback, 0);
+	setup_timer(&my_timer, my_timer_callback, 0);
 	pr_info("%s: Setup timer to fire in 2s (%ld)\n", __func__, jiffies);
 
 	ret = mod_timer(&my_timer, jiffies + msecs_to_jiffies(2000));	// lance le timer (1 fois!)
