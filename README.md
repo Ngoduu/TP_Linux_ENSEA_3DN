@@ -152,7 +152,27 @@ On enleve le module timer
 ![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/12405c71-54ee-44d4-9fd5-0aa7f9b6fcc5)
 
 2.3 CrossCompilation de modules noyau
+
 2.3.0 Récupération du Noyau Terasic (c’est déjà fait dans la VM !)
+
+2.3.1 Préparation de la compilation
+
+2.3.2 Récupéreation de la configuration actuelle du noyau
+
+2.3.3 Hello World
+
+Nous allons refaire le manip pour un program hello world mais cette fois avec un compilateur de la carte, voici le ficher .ko 
+
+![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/697709d3-64f6-4665-a00b-972c07dfb5bd)
+
+Test sur la carte
+
+![image](https://github.com/Ngoduu/TP_Linux_ENSEA_3DN/assets/145014223/99ac18f9-98a2-4782-a3d9-ec52c33fe843)
+
+nous avons bien reussi la cross compilation
+
+
+
 
 
 
